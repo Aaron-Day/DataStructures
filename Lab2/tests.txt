@@ -1,0 +1,32 @@
+Brute Force Bubble Sort
+	  c-array took: 0.003951 seconds
+	 my-array took: 0.013327 seconds
+	stl-array took: 0.011658 seconds
+Flagged Bubble Sort
+	  c-array took: 0.003719 seconds
+	 my-array took: 0.013451 seconds
+	stl-array took: 0.009481 seconds
+Selection Sort
+	  c-array took: 0.001498 seconds
+	 my-array took: 0.005836 seconds
+	stl-array took: 0.003253 seconds
+Insertion Sort
+	  c-array took: 0.000768 seconds
+	 my-array took: 0.003958 seconds
+	stl-array took: 0.002418 seconds
+Shell Sort
+	  c-array took: 0.000168 seconds
+	 my-array took: 0.000530 seconds
+	stl-array took: 0.000287 seconds
+Heap Sort
+	  c-array took: 0.000198 seconds
+	 my-array took: 0.000513 seconds
+	stl-array took: 0.000344 seconds
+Merge Sort
+	  c-array took: 0.000207 seconds
+	 my-array took: 0.000371 seconds
+	stl-array took: 0.000295 seconds
+Quick Sort
+	  c-array took: 0.000138 seconds
+	 my-array took: 0.000302 seconds
+	stl-array took: 0.000227 seconds
